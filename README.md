@@ -17,7 +17,6 @@ This repository showcases a collection of Java implementations of diverse design
 3. **Design Patterns Included:**
 
    **Creational Patterns:**
-   - Abstract Factory
    - Builder
    - Factory Method
    - Prototype
@@ -32,7 +31,7 @@ This repository showcases a collection of Java implementations of diverse design
 
    **Behavioral Patterns:**
    - Iterator
-   - Memento
+   - Memento   
    - Observer
    - State
 
